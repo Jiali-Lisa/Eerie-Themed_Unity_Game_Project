@@ -237,8 +237,6 @@ $v_y = \sqrt{2gh}$
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Through detailed design and thoughtful consideration, not only the UI will support palyers with a smooth gameplay, but it also improve the overall experience through simple layouts and excellent interaction. The UI will fit the eerie atmosphere while maintaining functionality.
 
 
-<h1 align="center"><ins>P</ins>ossible <ins>C</ins>hallenges</h1>
-
 ### Shaders and Special Effects
 #### Partical Effect
 Find the partical system here: Scene: Intro: Object: Fog
