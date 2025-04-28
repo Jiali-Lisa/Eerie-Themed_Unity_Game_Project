@@ -1,12 +1,25 @@
 # Project 2 Report
 
-Read the [project 2 specification](https://github.com/feit-comp30019/project-2-specification) for
-details on what needs to be covered here. You may modify this template as you see fit, but please
-keep the same general structure and headings.
+My Role: Project Manager & Environment/UX Designer
+Responsibilities
+Project Management:
 
-Remember that you must also continue to maintain the Game Design Document (GDD)
-in the `GDD.md` file (as discussed in the specification). We've provided a
-placeholder for it [here](GDD.md).
+Oversaw the full development cycle, including project planning, task delegation, team meetings, and documentation writing.
+
+Environment Design:
+
+Designed and assembled all game scenes in Unity, integrating and modifying assets from the Unity Asset Store to fit the project's style and requirements.
+
+UX/UI Design:
+
+Created and implemented all in-game dialogue text to enhance narrative engagement.
+
+Designed and built the main game menu UI for an intuitive user experience.
+
+Gameplay Flow Improvement:
+
+Developed seamless scene transitions to ensure a smooth and immersive gameplay experience.
+
 
 ## Table of Contents
 
@@ -32,65 +45,10 @@ Our team will looking for participants between 18-40, with different work and ed
 Our team will calculate the averages and percentage of each level for the likert scale response. Every scene has their unique likert scale that can help us precisely improve the specific scene and details. At the end of each scene’s likert scale, there will be several open-ended questions to ask participants indicating the specific problem found among the playtime. All the open-ended responses will be grouped into common themes. During cooperative evaluation, our team will transcribe and document players’ reactions. Our team will also transcribe any questions and thoughts raising during the sessions into the document. These real-time insights will be analyzed to identify recurring challenges or points where players may need additional guidance or where the game’s design needs clarification. Our team will categorize observations based on the type of feedback.
 Three main metrics — Engagement, Difficulty, Understanding, are included in the report. For all the three metrics, we would combine the likert scale, open questionnaires and observing feedback. For engagement, our group will based on players’ Likert scale responses and verbal reactions, we will measure how emotionally connected they felt to the game’s story and characters. For difficulty, our group will evaluate both the Likert scale ratings and observing when players encounter confusion or frustration during cooperative evaluation, we will assess the game’s difficulty balance. For understanding, our group will assess how well players understood the mechanics and narrative, both from the survey responses and real-time feedback gathered during gameplay.
 
-### Timeline
-1. All the details for the evaluation will be confirmed by 4th October, including evaluation techniques, participants and what to include in the survey etc.
-2. Between 5th and 6th Oct we will starting looking for particicants and confirm the time with them to play our game and fill in the survey.
-3. From 7th Oct to 10th Oct, we will meet with the participants either in person or online to do the evaluation.
-4. Between 11th and 13th Oct, we will summarize the date and base on the feedback we will make changes to the game.
-5. After changes are done, we will start working on the report.
-
-### Responsibility
-- Everyone: Everyone will be responsible for making the survey, finding 3 participants and collect data and feedback after the evaluation.
-- After the feedback is collected:
-    - Khai: responsible for improvements related to Chase Scene
-    - Tony: responsible for improvements related to Book Scene
-    - Mandy: responsible for improvements related to Maze Scene
-    - Lisa: responsible for improvements related to Intro Scene, game scene construction, character models and actions, and connection of all scenes
-- We make sure everyone contributes equally by
-    1. Discussing our current progress and assign new tasks during weekly meeting.
-    2. Frequently communicate in our Slack groupchat for deadline reminders and discussions.
-    3. All meeting minutes are ducumented in Confluence with tasks assignments and deadlines.
-    4. All tasks are assigned through Jira.
-
 ## Evaluation Report
 
 ### Feedback Summarization
 During the production of the game, there were some situations that were not taken into consideration, so it was decided to find and improve the shortcomings of the game in the form of survey. The game received feedbacks from 12 surveys and used them to improve it, which enhance the overall gameplay experience. First, some scenes are missing player tasks, which leaves players unsure of their objectives. In addition, some players' quest guidelines seem simple and need further hints. A bug with the pause menu has also been identified, which allows players to walk around at will when entering the dialogue phase. Moreover, When the game is in full screen, the q button for dialogue is upwards, which is in the wrong place. A  black background also appears during scene-to-scene transitions. Finally, some scenes were also found to be without music.
-
-
-### Changes done to the game
-
-- Khai:
-  1. Modify tasks in some scenes
-  2. Improve player experience by adjusting difficulty with:
-        - Added tips for item in the [last mini-game](Assets/Scenes/Khai%20Nguy/Chasing.unity)
-        - Added hints for player in the [last mini=game](Assets/Scenes/Khai%20Nguy/Chasing.unity)
-  3. Added music and more sound effects to some scenes
-  4. Added more shaders for the [last mini-game](Assets/Scenes/Khai%20Nguy/Chasing.unity)
-  5. Updated player movement in some scenes
-  6. Fixed the issue of the [first mini-game](Assets/Scenes/Zhifeng%20Wang/BookScene.unity) where texts sometimes are not registered when clicked
-  7. Fixed the issue of the [first mini-game](Assets/Scenes/Zhifeng%20Wang/BookScene.unity) where health tracker is not properly restarted after the first time
-  8. Fixed an issue in the pause menu not pausing audio correctly
-
-- Jiali:
-  1. Change Q button,dialogue panel and dialogue's position to center-bottom instead of center-middle
-  2. Rescale the size of black background
-  3. Fix the door frame problem by adjusting the object and it's parent's position
-  4. Add music to all the scenes that I am responsible for
-  5. Fix the image and button size to adapt to different screen sizes
-
-- Zhifeng:
-  1. Add task guides to some scenes
-  2. Change some of the existing task guides and add more detailed instructions
-  3. Fix a bug in the pause menu during dialogue
-  4. Add the blood setting to the first mini-game
-
-- Yue:
-  1. The game rule instructions have been revised to make the rules clearer.
-  2. Change the turning head keyboard from left arrow, right arrow into "A" and "D". Keep the game consistent with the previous version.
-  3. Update the door's light.
-  4. Update the diary scene to make it clearer.
-  5. Lower the background music to keep the consistent with other games.
 
 ### Shaders and Special Effects
 #### Partical Effect
@@ -217,17 +175,6 @@ The distortion effect works within Unity's rendering pipeline by manipulating th
 To apply the post-processing effect we can attach the [`PostEffectsController`](Assets/Scripts/Khai%20Nguy/PostEffectsController.cs) to the camera. The script then can be used to set the effects `On` or `Off` and
 - the `_Radius`, `_Feather`, `_Tint` values of the [vignette](#vignette) effect, altering the looks of the effect.
 - the `_Scale` and `_TimeScale` values of the [distortion](#distortion) effect, altering the speed and intensity of the effect.
-
-
-### Summary of Contributions
-| Name          | Scene                                           | Relative Tasks                          | Scripts                  | Report                                                                                           | Evaluation Plan                    |
-|---------------|-------------------------------------------------|-----------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------|------------------------------------|
-| Jiali Ying    | Chase Bridge, Ending, First Diary, Intro, MazeBridge, SecondDiary, Subtitle, ThirdDiary | Connection between all mini-games, <br> Gameplay Video      | Scripts related to scene | 1. changes done to the game <br> 2. Summary of contributions <br> 3. Reference and external resource | timeline, responsibility           |
-| Khai Nguy     | Chasing                                         | Music and Sound Effects                 | Scripts related to scene | 1. changes done to the game <br> 2. custom Cg/HLSL shaders <br> 3. Reference and external resource |                                    |
-| Yue Man       | Maze                                            | Story                                   | Scripts related to scene | 1. changes done to the game <br> 2. custom Cg/HLSL shaders <br> 3. particle system <br> 4. Reference and external resource | evaluation techniques, participants, data collection, data analysis |
-| Zhifeng Wang  | Book Scene, Start Scene                         | Player Task Guide, <br>Pause Menu        | Scripts related to scene | 1. feedback summarization <br> 2. changes done to the game <br> 3. Reference and external resource |                                    |
-
-
 
 
 ### References and External Resources
