@@ -1,24 +1,17 @@
 # Project 2 Report
 
-My Role: Project Manager & Environment/UX Designer
-Responsibilities
-Project Management:
-
-Oversaw the full development cycle, including project planning, task delegation, team meetings, and documentation writing.
-
-Environment Design:
-
-Designed and assembled all game scenes in Unity, integrating and modifying assets from the Unity Asset Store to fit the project's style and requirements.
-
-UX/UI Design:
-
-Created and implemented all in-game dialogue text to enhance narrative engagement.
-
-Designed and built the main game menu UI for an intuitive user experience.
-
-Gameplay Flow Improvement:
-
-Developed seamless scene transitions to ensure a smooth and immersive gameplay experience.
+### Role and Responsibility
+* My Role: Project Manager & Environment/UX Designer
+* Responsibilities
+1. Project Management:
+- Oversaw the full development cycle, including project planning, task delegation, team meetings, and documentation writing.
+2.  Environment Design:
+- Designed and assembled all game scenes in Unity, integrating and modifying assets from the Unity Asset Store to fit the project's style and requirements.
+3. UX/UI Design:
+- Created and implemented all in-game dialogue text to enhance narrative engagement.
+- Designed and built the main game menu UI for an intuitive user experience.
+- Gameplay Flow Improvement:
+- Developed seamless scene transitions to ensure a smooth and immersive gameplay experience.
 
 
 ## Table of Contents
