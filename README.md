@@ -1,6 +1,6 @@
 # Project 2 Report
 
-### Role and Responsibility
+## Role and Responsibility
 * My Role: Project Manager & Environment/UX Designer
 * Responsibilities
 1. Project Management:
