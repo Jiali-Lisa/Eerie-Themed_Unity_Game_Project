@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/StartScene.unity
+    guid: 85d0be132694144ff98d40e5a3968f22
+  - enabled: 1
+    path: Assets/Scenes/GamePlay.unity
+    guid: 54aff2d99b5284a2d9a7ea3bfa2fc3f8
+  - enabled: 1
+    path: Assets/Scenes/Zhifeng Wang/BookScene.unity
+    guid: f7eead219d1fb4e48803829b476ce52c
+  - enabled: 1
+    path: Assets/Scenes/Yue Man/Maze.unity
+    guid: 71020e96427ac49398c4e287db814278
+  - enabled: 1
+    path: Assets/Scenes/Khai Nguy/Chasing.unity
+    guid: 11e61ce8652cb4ce9ba3b2c9f93ef023
+  - enabled: 1
+    path: Assets/Scenes/Jiali Ying/Intro.unity
+    guid: f1e605d940c504ca7b4aa5304d4a2fa8
+  - enabled: 1
+    path: Assets/Scenes/Jiali Ying/FirstDiary.unity
+    guid: 33e9d33193a534f5dac22e0e3f909823
+  - enabled: 1
+    path: Assets/Scenes/Jiali Ying/MazeBridge.unity
+    guid: 86e3ae8fd98ef4beba074b687b8c11a7
+  - enabled: 1
+    path: Assets/Scenes/Jiali Ying/SecondDiary.unity
+    guid: ca987271820f945c081e9bee3076b7c7
+  - enabled: 1
+    path: Assets/Scenes/Jiali Ying/ThirdDiary.unity
+    guid: 87aecdb12ef9847dfaf15f0a55eadd83
+  - enabled: 1
+    path: Assets/Scenes/Jiali Ying/Subtitle.unity
+    guid: 7601c13dc1fea4c56a08ffef16eabcac
+  - enabled: 1
+    path: Assets/Scenes/Jiali Ying/Ending.unity
+    guid: 632d08cf065ae43888ccbc59e158634d
+  - enabled: 1
+    path: Assets/Scenes/Jiali Ying/ChaseBridge.unity
+    guid: 0daa4069c36d34a10a5cb4bfb332ecfc
+  m_configObjects: {}

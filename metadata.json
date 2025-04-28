@@ -1,0 +1,29 @@
+{
+    "gameTitle": "Me",
+    "gameBlurb": "Step into the haunting world of Emily, a young high school student struggling with more than just her studies. Haunted by dark hallucinations, memories that slip through her fingers, and the weight of family turmoil, her life feels like a maze with no escape. As you navigate through her daily struggles, you will face mysterious tasks and psychological challenges designed to mirror her inner battles. Each scene brings you closer to understanding her fractured reality. With every step, you will uncover pieces of her story, experiencing firsthand the double-edged blade of mental illness and inherited pain. Will you help Emily find the hope she desperately needs, or will the shadows pull her deeper into the abyss? Me is not just a game, it is a journey through the mind, reminding players that even in darkness, there is a light waiting to be found.",
+    "repoUrl": "https://github.com/feit-comp30019/2024s2-project-2-random",
+    "videoUrl": "https://youtu.be/-8OBJUsGxs4",
+    "teamName": "Random",
+    "teamMembers": [
+      {
+        "name": "Jiali Ying",
+        "github": "Jiali-Lisa",
+        "email": "jialying@student.unimelb.edu.au"
+      },
+      {
+        "name": "Yue Man",
+        "github": "Mandyyyue",
+        "email": "yueman@student.unimelb.edu.au"
+      },
+      {
+        "name": "Tuan Khai Nguy",
+        "github": "ktnguy124",
+        "email": "ktnguy@student.unimelb.edu.au"
+      },
+      {
+        "name": "Zhifeng Wang",
+        "github": "zhifwang1",
+        "email": "zhifwang@student.unimelb.edu.au"
+      }
+    ]
+  }
