@@ -236,54 +236,6 @@ $v_y = \sqrt{2gh}$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Through detailed design and thoughtful consideration, not only the UI will support palyers with a smooth gameplay, but it also improve the overall experience through simple layouts and excellent interaction. The UI will fit the eerie atmosphere while maintaining functionality.
 
-<h1 align="center"><ins>T</ins>echnology and <ins>T</ins>ools</h1>
-
-* During modeling and building scenes, ProBuilder, PolyBrush, ProGrids are used for efficiency. Unity assets store is used for essential materials, models and skybox.
-* Audacity and [Eleven Labs](https://elevenlabs.io/) for audio.
-* DALL-E to generate concept art.
-
-<h1 align="center"><ins>T</ins>eam <ins>C</ins>ommunication, <ins>T</ins>imelines and <ins>T</ins>ask <ins>A</ins>ssignment</h1>
-
-* Team Communication:
-    - Slack: team communication, including arranging team meeting and daily discussion.
-    - Confluence: documents, including meeting minutes.
-    - Jira: tasks managements, including assigning tasks, setting deadlines and tracking processes.
-* Timelines:
-    - 5th August: First team meeting, finished milestone 1, initial assignment of tasks, decision made for stories and characters.
-    - 12th August: Second team meeting, assignment of tasks for GDD. Estimate GDD submission date is Friday 16th August.
-* Task assignment:
-    - GDD
-        - Yue:
-            1. Game Overview(Core Concept, Related genre(s), Target Audience, Unique Selling Points (USPs))
-            2. Story and Narrative(Backstory, Characters)
-        - Jiali:
-            1. Gameplay and Mechanics(Player Perspective, Controls, Progression, Gameplay Mechanics)
-            2. Levels and World Design(Game World, Obkects, Physics)
-            3. Technology and Tools
-            4. Team Communication, Timelines and Task Assignment
-            5. Possible Challenges
-        - Khai:
-            1. Art and Audio(Art Style, Sound and Music, Assets)
-            2. GIF and pictures
-        - Zhifeng:
-            1. User Interface(Introduction, Main Menu, Pause Menu, Movement, Dialogue Box, Scene/Item Interaction)
-    - Game
-        - Yue:
-            1. Script
-            2. Story, narrative and setting for the game
-            3. Maze Game
-        - Jiali:
-            1. Models, scenes, skybox, light and interior decoration for the game
-            2. Character movement script(including move, jump, turn head)
-            3. Door open and close script, animation and basic UI
-            4. Promotional video
-        - Zhifeng:
-            1. Start and pause menu and UI design
-            2. Character interaction with game objects
-            3. Book game
-        - Khai:
-            1. Music and sound effects
-            2. Escape Game
 
 <h1 align="center"><ins>P</ins>ossible <ins>C</ins>hallenges</h1>
 
