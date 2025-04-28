@@ -1,4 +1,4 @@
-# Project 2 Report
+# Eerie-Themed Unity Game Project
 
 ## Role and Responsibility
 * My Role: Project Manager & Environment/UX Designer
@@ -14,17 +14,18 @@
 - Developed seamless scene transitions to ensure a smooth and immersive gameplay experience.
 
 ## Gameplay Link
-The game can be played on browser visa this link: https://yiiingjl.itch.io/me
-  
+The game can be played on browser via this link: https://yiiingjl.itch.io/me
 
+## Game Trailer Video
+The game trailer video is available via this link: https://youtu.be/-8OBJUsGxs4
+  
+<h1 align="center"><ins>G</ins>ame <ins>O</ins>verview</h1>
 <p align="center">
     <img src="Images/cover.png" width="800">
 </p>
 <p align="center">
     <img src="Images/design_document.png" width="500">
 </p>
-
-<h1 align="center"><ins>G</ins>ame <ins>O</ins>verview</h1>
 
 <h3><ins>C</ins>ore <ins>C</ins>oncept:</h3>
 
