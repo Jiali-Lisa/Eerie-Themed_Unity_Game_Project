@@ -12,6 +12,9 @@
 - Designed and built the main game menu UI for an intuitive user experience.
 - Gameplay Flow Improvement:
 - Developed seamless scene transitions to ensure a smooth and immersive gameplay experience.
+
+## Gameplay Link
+THr game can be played on browser visa this link: https://yiiingjl.itch.io/me
   
 
 <p align="center">
